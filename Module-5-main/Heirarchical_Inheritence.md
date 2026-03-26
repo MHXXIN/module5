@@ -56,5 +56,5 @@ Employee1 = Patient_details( name , id)  # parent class object
 print( Employee1.Employee_Details() , Employee1.Employee_check() ) 
 ## Sample Output
 <img width="811" height="229" alt="image" src="https://github.com/user-attachments/assets/9258c21d-900e-4114-9893-7d81a8d7bac7" />
-##Result
+## Result
 Thus the output is verified.
